@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://susume.tech">
-    <img src="assets/banner.svg" alt="Susume Tech. Advancing Tech, One step at a time." width="100%">
+    <img src="assets/banner-2026.svg" alt="Susume Tech. Advancing Tech, One step at a time." width="100%">
   </a>
 </p>
 
