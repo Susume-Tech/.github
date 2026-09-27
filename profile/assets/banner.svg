@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">Susume Tech</title>
+  <desc id="d">Susume Tech. Built to move you forward. Reliable backends, CI/CD pipelines and developer tooling from Cape Town, South Africa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05071e"/>
+      <stop offset="1" stop-color="#0c114a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.2" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#524dd3" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#524dd3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <rect width="1280" height="360" fill="url(#glow)"/>
+
+    <!-- decorative circuit traces -->
+    <g fill="none" stroke="#8dd7bf" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1280 70H1130a16 16 0 0 0-16 16v48"/>
+      <circle cx="1114" cy="146" r="8"/>
+      <path d="M1280 120H1190a16 16 0 0 0-16 16v96a16 16 0 0 1-16 16h-60"/>
+      <circle cx="1090" cy="248" r="8"/>
+      <path d="M1280 290H1210a16 16 0 0 1-16-16v-20"/>
+      <circle cx="1194" cy="246" r="8"/>
+      <path d="M1040 360v-40a16 16 0 0 1 16-16h60"/>
+      <circle cx="1124" cy="304" r="8"/>
+    </g>
+
+    <!-- logo mark -->
+    <g transform="translate(200 180)">
+      <circle r="112" fill="none" stroke="#8dd7bf" stroke-width="4"/>
+      <g transform="scale(0.34) translate(-968 -778)" fill="none" stroke="#ffffff" stroke-width="23" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M874 699H794a12 12 0 0 0-12 12V935a12 12 0 0 0 12 12H1143a12 12 0 0 0 12-12V711a12 12 0 0 0-12-12H1063"/>
+        <path d="M968 947v68M888 1015H1048"/>
+        <path d="M968 870V565"/>
+        <circle cx="968" cy="542" r="23"/>
+        <path d="M852 606h37a27 27 0 0 1 27 27V815"/>
+        <circle cx="829" cy="606" r="23"/>
+        <path d="M1084 607h-37a27 27 0 0 0-27 27V815"/>
+        <circle cx="1107" cy="607" r="23"/>
+      </g>
+    </g>
+
+    <!-- wordmark -->
+    <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+      <text x="380" y="150" fill="#ffffff" font-size="68" font-weight="700" letter-spacing="8">SUSUME TECH</text>
+      <text x="382" y="196" fill="#8dd7bf" font-size="22" font-weight="500" letter-spacing="6">BUILT TO MOVE YOU FORWARD.</text>
+      <rect x="382" y="222" width="64" height="3" rx="1.5" fill="#524dd3"/>
+      <text x="382" y="262" fill="#e8e7f7" font-size="20" letter-spacing="0.5">Reliable backends, CI/CD pipelines and developer-first tooling</text>
+      <text x="382" y="292" fill="#9a99c4" font-size="17" letter-spacing="0.5">for NGOs, SMEs and local enterprises  ·  Cape Town, South Africa</text>
+    </g>
+  </g>
+</svg>

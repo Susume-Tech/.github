@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="t d">
+  <title id="t">How we deliver</title>
+  <desc id="d">Delivery lifecycle: Discover, Design, Build, Verify, Release, Operate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05071e"/><stop offset="1" stop-color="#0c114a"/></linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="120" y1="0" x2="1216" y2="0"><stop offset="0" stop-color="#524dd3"/><stop offset="1" stop-color="#8dd7bf"/></linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8dd7bf"/></marker>
+  </defs>
+  <rect width="1280" height="260" rx="16" fill="url(#bg)"/>
+  <text x="40" y="44" fill="#9a99c4" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">DELIVERY LIFECYCLE</text>
+  <path d="M120 110H1216" stroke="url(#line)" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#arrow)"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(120 110)">
+      <circle r="30" fill="#05071e" stroke="#524dd3" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">01</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Discover</text>
+      <text y="94" fill="#b9b8dc" font-size="14">Discovery chat and</text>
+      <text y="114" fill="#b9b8dc" font-size="14">system audit</text>
+    </g>
+    <g transform="translate(328 110)">
+      <circle r="30" fill="#05071e" stroke="#524dd3" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">02</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Design</text>
+      <text y="94" fill="#b9b8dc" font-size="14">Contract-first APIs,</text>
+      <text y="114" fill="#b9b8dc" font-size="14">simple architecture</text>
+    </g>
+    <g transform="translate(536 110)">
+      <circle r="30" fill="#05071e" stroke="#524dd3" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">03</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Build</text>
+      <text y="94" fill="#b9b8dc" font-size="14">Weekly milestones,</text>
+      <text y="114" fill="#b9b8dc" font-size="14">small iterations</text>
+    </g>
+    <g transform="translate(744 110)">
+      <circle r="30" fill="#05071e" stroke="#524dd3" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">04</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Verify</text>
+      <text y="94" fill="#b9b8dc" font-size="14">Contract, load and</text>
+      <text y="114" fill="#b9b8dc" font-size="14">chaos testing</text>
+    </g>
+    <g transform="translate(952 110)">
+      <circle r="30" fill="#05071e" stroke="#524dd3" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">05</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Release</text>
+      <text y="94" fill="#b9b8dc" font-size="14">Automated pipelines,</text>
+      <text y="114" fill="#b9b8dc" font-size="14">blue-green rollouts</text>
+    </g>
+    <g transform="translate(1160 110)">
+      <circle r="30" fill="#05071e" stroke="#8dd7bf" stroke-width="2.5"/>
+      <text y="6" fill="#ffffff" font-size="17" font-weight="700">06</text>
+      <text y="66" fill="#ffffff" font-size="19" font-weight="600">Operate</text>
+      <text y="94" fill="#b9b8dc" font-size="14">SLOs, alerting and</text>
+      <text y="114" fill="#b9b8dc" font-size="14">ongoing support</text>
+    </g>
+  </g>
+</svg>
