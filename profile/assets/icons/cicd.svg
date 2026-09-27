@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" role="img" aria-label="CI/CD and cloud deployment">
+  <rect width="56" height="56" rx="12" fill="#524dd3"/>
+  <g transform="translate(12 12) scale(1.3333)" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="4" cy="12" r="2.2"/><circle cx="12" cy="5" r="2.2"/><circle cx="12" cy="19" r="2.2"/><circle cx="20" cy="12" r="2.2"/><path d="M5.7 10.5l4.6-4M5.7 13.5l4.6 4M13.7 6.5l4.6 4M13.7 17.5l4.6-4"/>
+  </g>
+</svg>
