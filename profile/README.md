@@ -99,7 +99,7 @@ Tell us about your project and we will suggest practical next steps. We reply wi
 
 - **Email:** [info@susume.tech](mailto:info@susume.tech)
 - **Website:** [susume.tech](https://susume.tech)
-- **Location:** Cape Town, South Africa, remote friendly
+- **Location:** Johannesburg, South Africa, remote friendly
 
 <img src="assets/divider.svg" alt="" width="100%">
 
