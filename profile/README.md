@@ -79,10 +79,7 @@ Susume Tech is a small software company based in Johannesburg, South Africa, wor
   <img src="https://img.shields.io/badge/OpenAPI-05071e?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
   <img src="https://img.shields.io/badge/GraphQL-05071e?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/JWT-05071e?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Terraform-524dd3?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-524dd3?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Linux-524dd3?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/OpenWrt-524dd3?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt">
 </p>
 
 ## Team
