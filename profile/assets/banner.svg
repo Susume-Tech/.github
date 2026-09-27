@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
   <title id="t">Susume Tech</title>
-  <desc id="d">Susume Tech. Built to move you forward. Reliable backends, CI/CD pipelines and developer tooling from Cape Town, South Africa.</desc>
+  <desc id="d">Susume Tech. Advancing Tech, One step at a time. Reliable backends, CI/CD pipelines and developer tooling from Johannesburg, South Africa.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05071e"/>
@@ -50,10 +50,10 @@
     <!-- wordmark -->
     <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
       <text x="380" y="150" fill="#ffffff" font-size="68" font-weight="700" letter-spacing="8">SUSUME TECH</text>
-      <text x="382" y="196" fill="#8dd7bf" font-size="22" font-weight="500" letter-spacing="6">BUILT TO MOVE YOU FORWARD.</text>
+      <text x="382" y="196" fill="#8dd7bf" font-size="22" font-weight="500" letter-spacing="4">ADVANCING TECH, ONE STEP AT A TIME</text>
       <rect x="382" y="222" width="64" height="3" rx="1.5" fill="#524dd3"/>
       <text x="382" y="262" fill="#e8e7f7" font-size="20" letter-spacing="0.5">Reliable backends, CI/CD pipelines and developer-first tooling</text>
-      <text x="382" y="292" fill="#9a99c4" font-size="17" letter-spacing="0.5">for NGOs, SMEs and local enterprises  ·  Cape Town, South Africa</text>
+      <text x="382" y="292" fill="#9a99c4" font-size="17" letter-spacing="0.5">for NGOs, SMEs and local enterprises  ·  Johannesburg, South Africa</text>
     </g>
   </g>
 </svg>

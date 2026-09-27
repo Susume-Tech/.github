@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://susume.tech">
-    <img src="assets/banner.svg" alt="Susume Tech. Built to move you forward." width="100%">
+    <img src="assets/banner.svg" alt="Susume Tech. Advancing Tech, One step at a time." width="100%">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## About
 
-Susume Tech is a small software company based in Cape Town, South Africa, working fully remote. We build robust backend systems, CI/CD pipelines and developer-friendly products for NGOs, SMEs and local enterprises who need dependable systems without the fluff.
+Susume Tech is a small software company based in Johannesburg, South Africa, working fully remote. We build robust backend systems, CI/CD pipelines and developer-friendly products for NGOs, SMEs and local enterprises who need dependable systems without the fluff.
 
 **Mission.** To develop innovative, reliable and user-focused software solutions that solve real-world challenges.
 
@@ -103,4 +103,4 @@ Tell us about your project and we will suggest practical next steps. We reply wi
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<p align="center"><sub>&copy; Susume Tech. Built to move you forward.</sub></p>
+<p align="center"><sub>&copy; Susume Tech. Advancing Tech, One step at a time.</sub></p>
