@@ -87,7 +87,7 @@ Susume Tech is a small software company based in Johannesburg, South Africa, wor
 | Name | Role | Focus |
 | :--- | :--- | :--- |
 | Ntsako Silence Ndlovu | Co-Founder and CEO | Backend, integration and developer tooling |
-| Fumani (Bright) Chauke | Co-Founder | Networking, DevOps and APIs |
+| Bright Chauke | Co-Founder | System Admin, Networking and DevOps |
 | Natasha Mabaire | Co-Founder | Software quality engineering, reliability and performance |
 
 ## Work with us
